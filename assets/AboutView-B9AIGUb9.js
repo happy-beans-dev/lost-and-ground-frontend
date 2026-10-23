@@ -1,0 +1,1 @@
+import{a as e,l as t}from"./index-Cp0MVIPX.js";import{t as n}from"./PagePlaceholder-DxuSyXK5.js";var r={__name:`AboutView`,setup(r){return(r,i)=>(t(),e(n,{title:`About`}))}};export{r as default};
