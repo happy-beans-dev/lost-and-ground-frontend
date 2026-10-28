@@ -1,0 +1,1 @@
+import{o as e,u as t}from"./index-MGIyoV_t.js";import{t as n}from"./PagePlaceholder-BW24F3h0.js";var r={__name:`ProductView`,props:{slug:{type:String,required:!0}},setup(r){return(i,a)=>(t(),e(n,{title:r.slug,note:`Product page: waiting for GET /api/products/:slug and the design.`},null,8,[`title`]))}};export{r as default};

@@ -1,0 +1,1 @@
+import{o as e,u as t}from"./index-MGIyoV_t.js";import{t as n}from"./PagePlaceholder-BW24F3h0.js";var r={__name:`ContactView`,setup(r){return(r,i)=>(t(),e(n,{title:`Contact`,note:`Contact form: waiting for POST /api/contact.`}))}};export{r as default};
