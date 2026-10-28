@@ -1,1 +1,0 @@
-import{a as e,l as t}from"./index-Cp0MVIPX.js";import{t as n}from"./PagePlaceholder-DxuSyXK5.js";var r={__name:`ContactView`,setup(r){return(r,i)=>(t(),e(n,{title:`Contact`,note:`Contact form: waiting for POST /api/contact.`}))}};export{r as default};
