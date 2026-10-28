@@ -1,1 +1,0 @@
-import{o as e,u as t}from"./index-MGIyoV_t.js";import{t as n}from"./PagePlaceholder-BW24F3h0.js";var r={__name:`AboutView`,setup(r){return(r,i)=>(t(),e(n,{title:`About`}))}};export{r as default};
