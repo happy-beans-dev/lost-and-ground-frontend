@@ -1,0 +1,1 @@
+import{f as e,o as t}from"./index-BdY3xdgi.js";import{t as n}from"./PagePlaceholder-DektxEhB.js";var r={__name:`ShopView`,setup(r){return(r,i)=>(e(),t(n,{title:`Shop`,note:`The catalogue appears once the API serves GET /api/products.`}))}};export{r as default};

@@ -1,1 +1,0 @@
-import{f as e,o as t}from"./index-CyfTCe_1.js";import{t as n}from"./PagePlaceholder-_364ZCWs.js";var r={__name:`ShopView`,setup(r){return(r,i)=>(e(),t(n,{title:`Shop`,note:`The catalogue appears once the API serves GET /api/products.`}))}};export{r as default};

@@ -1,1 +1,0 @@
-import{f as e,o as t}from"./index-CyfTCe_1.js";import{t as n}from"./PagePlaceholder-_364ZCWs.js";var r={__name:`ContactView`,setup(r){return(r,i)=>(e(),t(n,{title:`Contact`,note:`Contact form: waiting for POST /api/contact.`}))}};export{r as default};

@@ -1,0 +1,1 @@
+import{f as e,o as t}from"./index-BdY3xdgi.js";import{t as n}from"./PagePlaceholder-DektxEhB.js";var r={__name:`AboutView`,setup(r){return(r,i)=>(e(),t(n,{title:`About`}))}};export{r as default};
