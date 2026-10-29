@@ -1,0 +1,1 @@
+import{f as e,o as t}from"./index-CyfTCe_1.js";import{t as n}from"./PagePlaceholder-_364ZCWs.js";var r={__name:`ProductView`,props:{slug:{type:String,required:!0}},setup(r){return(i,a)=>(e(),t(n,{title:r.slug,note:`Product page: waiting for GET /api/products/:slug and the design.`},null,8,[`title`]))}};export{r as default};

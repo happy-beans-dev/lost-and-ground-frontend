@@ -1,1 +1,0 @@
-import{f as e,o as t}from"./index-BxKJYgi7.js";import{t as n}from"./PagePlaceholder-DW_yJLkI.js";var r={__name:`SustainabilityView`,setup(r){return(r,i)=>(e(),t(n,{title:`Sustainability`}))}};export{r as default};

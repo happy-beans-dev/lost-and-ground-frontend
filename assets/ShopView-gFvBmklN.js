@@ -1,1 +1,0 @@
-import{f as e,o as t}from"./index-BxKJYgi7.js";import{t as n}from"./PagePlaceholder-DW_yJLkI.js";var r={__name:`ShopView`,setup(r){return(r,i)=>(e(),t(n,{title:`Shop`,note:`The catalogue appears once the API serves GET /api/products.`}))}};export{r as default};
