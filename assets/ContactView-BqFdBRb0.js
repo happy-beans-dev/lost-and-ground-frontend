@@ -1,0 +1,1 @@
+import{a as e,x as t}from"./runtime-core.esm-bundler-CVPT-a6d.js";import{t as n}from"./PagePlaceholder-Cw-UTHTg.js";var r={__name:`ContactView`,setup(r){return(r,i)=>(t(),e(n,{title:`Contact`,note:`Contact form: waiting for POST /api/contact.`}))}};export{r as default};
