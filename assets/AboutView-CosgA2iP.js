@@ -1,1 +1,0 @@
-import{a as e,x as t}from"./runtime-core.esm-bundler-CVPT-a6d.js";import{t as n}from"./PagePlaceholder-Cw-UTHTg.js";var r={__name:`AboutView`,setup(r){return(r,i)=>(t(),e(n,{title:`About`}))}};export{r as default};

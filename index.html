@@ -17,11 +17,24 @@
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;500&display=swap"
       rel="stylesheet"
     />
-    <script type="module" crossorigin src="./assets/index-BDF6w6Zp.js"></script>
-    <link rel="modulepreload" crossorigin href="./assets/runtime-core.esm-bundler-CVPT-a6d.js">
-    <link rel="stylesheet" crossorigin href="./assets/index-CVT8dq23.css">
+    <script type="module" crossorigin src="./assets/index-DuIL-ZMN.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/runtime-core.esm-bundler-BRM04KVy.js">
+    <link rel="stylesheet" crossorigin href="./assets/index-Cvjwyvm7.css">
   </head>
   <body>
-    <div id="app"></div>
+    <!-- Заставка до запуска JS — копия AppLoader в App.vue. Vue при
+         монтировании заменит её своей, и та погаснет с первой страницей -->
+    <div id="app">
+      <div class="page-loader">
+        <div class="loader text-loader-lg" role="status">
+          <span class="loader__leaf" aria-hidden="true"></span>
+          <span class="loader__bean" aria-hidden="true"></span>
+          <span class="loader__bean" aria-hidden="true"></span>
+          <span class="loader__bean" aria-hidden="true"></span>
+          <span class="loader__leaf" aria-hidden="true"></span>
+          <span class="sr-only">Loading</span>
+        </div>
+      </div>
+    </div>
   </body>
 </html>

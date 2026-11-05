@@ -1,0 +1,1 @@
+import{s as e,w as t}from"./runtime-core.esm-bundler-BRM04KVy.js";import{t as n}from"./PagePlaceholder-CXJjOqki.js";var r={__name:`ShopView`,setup(r){return(r,i)=>(t(),e(n,{title:`Shop`,note:`The catalogue appears once the API serves GET /api/products.`}))}};export{r as default};
