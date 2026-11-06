@@ -1,0 +1,1 @@
+import{s as e,w as t}from"./runtime-core.esm-bundler-Jl5xVxML.js";import{t as n}from"./PagePlaceholder-F9Dub55J.js";var r={__name:`ProductView`,props:{slug:{type:String,required:!0}},setup(r){return(i,a)=>(t(),e(n,{title:r.slug,note:`Product page: waiting for GET /api/products/:slug and the design.`},null,8,[`title`]))}};export{r as default};

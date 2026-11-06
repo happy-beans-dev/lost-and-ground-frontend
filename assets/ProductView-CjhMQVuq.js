@@ -1,1 +1,0 @@
-import{s as e,w as t}from"./runtime-core.esm-bundler-BRM04KVy.js";import{t as n}from"./PagePlaceholder-CXJjOqki.js";var r={__name:`ProductView`,props:{slug:{type:String,required:!0}},setup(r){return(i,a)=>(t(),e(n,{title:r.slug,note:`Product page: waiting for GET /api/products/:slug and the design.`},null,8,[`title`]))}};export{r as default};
